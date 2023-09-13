@@ -33,15 +33,14 @@
 
 ## 📌 Functions
 * For member
-  - sign-up & sign-in, occupancy inquiry, Q&A Chatbot
-  - public space reservation, product application, business support application
-  - subscription type service plan payment, easy payment system and service history and information modification functions
+  - Sign-up & sign-in, occupancy inquiry, Q&A Chatbot
+  - Public space reservation, product application, business support application
+  - Subscription type service plan payment, easy payment management and service history and information modification functions
 * For admin
   - Implement member approval (sign-in can be processed after approval for admin)
-  - member status, occupancy inquiry history, lease registration and history functions
+  - Member status, occupancy inquiry history, lease registration and history functions
 
 ## 👩‍💻 Roles
-* Created subscription type service plan payment, easy payment system and service history and information modification functions
+* Created subscription type service plan payment, easy payment system and service history and member's information modification functions
 * UI/UX design, DB design and deployment
-* Edited PPT, Video
-
+* Edited the PPT, video
